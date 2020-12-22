@@ -1,0 +1,17 @@
+
+
+//TODO  Android Studio Tutorial - Take picture with Camera (https://www.youtube.com/watch?v=ondCeqlAwEI)
+
+//TODO  Source (http://ouo.io/fqGi4)
+
+//TODO seznam vgrajenih implicitnih intentov: v iskalnik vpiši "common intents"
+//TODO https://developer.android.com/guide/components/intents-common
+
+
+//TODO  Kvaliteta slike je pri tem naèinu slaba (dovolj za thumbnail).
+//TODO Za normalno kvaliteto glej https://developer.android.com/training/camera/photobasics#java
+//TODO https://vlemon.com/blog/android/android-capture-image-from-camera-and-get-image-save-path/
+
+//TODO https://developer.android.com/guide/components/intents-common#ImageCapture
+//TODO https://www.youtube.com/watch?v=VqgZxiU2knM
+//TODO https://www.youtube.com/watch?v=Q23ARRWv6KQ
